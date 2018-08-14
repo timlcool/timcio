@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Progressive Web Apps</title>
+  <title>timc.io PWA Demo</title>
   <link rel="stylesheet" href="/css/app.css">
   <link rel="manifest" href="/manifest.json">
 
@@ -36,14 +36,14 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="#slideshow"><h1>Wisdom<span class="subhead">Pet Medicine</span></h1></a>
+        <a class="navbar-brand" href="#slideshow"><h1>timc.io<span class="subhead">PWA</span></h1></a>
       </div><!-- navbar-header -->
       <div class="collapse navbar-collapse" id="collapse">
         <ul class="nav navbar-nav navbar-right">
           <li><img class="reload reloadbtn" src="images/icons/icon_reload.svg" alt="Reload Button" /></li>
           <li class="active"><a href="#slideshow">Home</a></li>
-          <li><a href="#adoption">Adoption</a></li>
-          <li><a href="#appointments">Appointments</a></li>
+          <li><a href="#adoption">Master CIO</a></li>
+          <li><a href="#appointments">Smart City</a></li>
         </ul>
       </div><!-- navbar collapse -->
     </div><!-- navbar container -->
@@ -68,8 +68,8 @@
 <main>
   <div class="page" id="adoption">
     <div class="container">
-      <h2 class="page-headline">Adoptions</h2>
-      <p>These loving and deserving pets need a home. Please help us find a place for them. Click on their photo for more information.</p>
+      <h2 class="page-headline">Master CIO</h2>
+      <p>Key Traits You Must Icorporate to be a Master CIO. Click each for more info.</p>
       <script id="adoption-template" type="text/x-handlebars-template">
         {{#each adoption}}
           <div class="col-md-2 col-sm-3 col-xs-4 openpetmodal" data-toggle="modal" data-target="#wisdompetmodal" data-petname="{{pet}}" data-petbreed="{{breed}}" data-petowner="{{owner}}" data-petinfo="{{description}}" data-petimage="{{filename}}">
@@ -82,8 +82,8 @@
   </div><!-- page-adoption -->
   <div class="page" id="appointments">
     <div class="container">
-      <h2 class="page-headline">Appointments</h2>
-      <p>Here's the pets that came in this week for an appointment. Click on a pet's photo for more info.</p>
+      <h2 class="page-headline">Smart City</h2>
+      <p>Critical Factors to a Successful Smart City Strategy</p>
 
       <script id="appointments-template" type="text/x-handlebars-template">
         {{#each appointments}}
