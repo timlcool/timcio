@@ -8,19 +8,19 @@
 
 "adoption":
   [
-    { "pet": "Pepe", "owner": "Reggie Tupp", "type": "Rabbit", "breed": "Cinnamon rabbit", "description": "Six-month-old Pepe is very active and is always keeping his owners, and us, on our toes!", "reason": "It's time for this rabbit's post spaying surgery checkup", "filename": "Pepe-505301170"},
-    { "pet": "Nadalee", "owner": "Krystle Valerija", "type": "Dog", "breed": "Chihuahua", "description": "Nadalee is a 7-year-old long hair Chihuahua with a very pleasant, laid back, temperament.", "reason": "This dog is coming in for his monthly nail trim and grooming", "filename": "Nadalee-601919350"},
+    { "pet": "Strategic Approach", "owner": "Reggie Tupp", "type": "Rabbit", "breed": "Cinnamon rabbit", "description": "Six-month-old Pepe is very active and is always keeping his owners, and us, on our toes!", "reason": "It's time for this rabbit's post spaying surgery checkup", "filename": "Pepe-505301170"},
+    { "pet": "Unique Priorities", "owner": "Krystle Valerija", "type": "Dog", "breed": "Chihuahua", "description": "Nadalee is a 7-year-old long hair Chihuahua with a very pleasant, laid back, temperament.", "reason": "This dog is coming in for his monthly nail trim and grooming", "filename": "Nadalee-601919350"},
     { "pet": "Seek Opportunities", "owner": "Critical Skill", "type": "Strategic", "breed": "Development", "description": "Anticipate and adapt to change, look ahead and see opportunies, find ways to make them part of the agenda rather than be passively pushed around by them.", "reason": "This iguana's is showing signs of dementia associated with his old age", "filename": "Zera-599775030"},
-    { "pet": "Oddball", "owner": "Howie Cadell", "type": "Guinea pig", "breed": "American guinea pig", "description": "Oddball was the runt of his litter and has some breathing problems but is thriving well.", "reason": "Oddball has a hard lump on right front foot", "filename": "Oddball-534210612"},
-    { "pet": "Emotional Intelligence", "owner": "Sandie Gobnet", "type": "Turtle", "breed": "Critical", "description": "Prioritize emotional intelligence for personal development.", "reason": "Smart cities start with people", "filename": "Chyna-545429720"},
-    { "pet": "Wesley", "owner": "Nathan Cayden", "type": "Dog", "breed": "Mixed breed", "description": "At 8 years old there isn’t anything Wesley can’t do, he’s very healthy and full of energy!", "reason": "This dog is returning for his next heartworm treatment visit", "filename": "Wesley-122458883"}
+    { "pet": "Intelligent", "owner": "Howie Cadell", "type": "Guinea pig", "breed": "American guinea pig", "description": "Oddball was the runt of his litter and has some breathing problems but is thriving well.", "reason": "Oddball has a hard lump on right front foot", "filename": "Oddball-534210612"},
+    { "pet": "Open Source", "owner": "Critical Skill", "type": "Turtle", "breed": "Critical", "description": "Prioritize emotional intelligence for personal development.", "reason": "Smart cities start with people", "filename": "Chyna-545429720"},
+    { "pet": "Partner", "owner": "Nathan Cayden", "type": "Dog", "breed": "Mixed breed", "description": "At 8 years old there isn’t anything Wesley can’t do, he’s very healthy and full of energy!", "reason": "This dog is returning for his next heartworm treatment visit", "filename": "Wesley-122458883"}
   ],
 
 "appointments" :
   [
-    { "pet": "Sami", "owner": "Maggie Rickland", "type": "Dog", "breed": "Dalmation", "description": "Sami is a very happy go lucky 1-year-old Dalmatian that loves to play.", "reason": "Sami has had some changes in his bathroom in habits", "filename": "Sami-163271312"},
-    { "pet": "Cosmo", "owner": "Jennifer Dawson", "type": "Bird", "breed": "Parrot", "description": "Cosmo is possibly the happiest parrot that lived, and loves to sing Happy Birthday to anyone that will listen.", "reason": "Cosmo's mom would like us to check for arthritic conditions and do a routine checkup", "filename": "Cosmo-481057312"},
-    { "pet": "Tibbs", "owner": "Shad Cayden", "type": "Dog", "breed": "Dachshund", "description": "Tibbs suffers from a spinal condition that can cause immobilization and his owner has to watch his activity levels.", "reason": "Tibbs has had an ongoing rash and cold symptoms and we are going to run allergy tests", "filename": "Tibbs-598156630"},
-    { "pet": "Stich", "owner": "Dennis Nicholback", "type": "Dog", "breed": "English pointer", "description": "Four-year-old Stich was born with a birth defect that required surgery at 6 weeks of age.", "reason": "Stich has been having some stomach issues and is due for his vaccinations", "filename": "Stich-56385517"}
+    { "pet": "Strategic Approach", "owner": "CIO", "type": "Dog", "breed": "Dalmation", "description": "It's the only way to approach an IT initaitive", "reason": "Problem ID first, then see if Smart City is a fit", "filename": "Sami-163271312"},
+    { "pet": "Emotional Intelligence", "owner": "Critical Skill", "type": "Development", "breed": "Strategic", "description": "Smart City initaitve.", "reason": "Smart City initiative", "filename": "Cosmo-481057312"},
+    { "pet": "Partnerships", "owner": "Internal & External", "type": "Dog", "breed": "Strategic", "description": "Strategic", "reason": "No one can do it alone!", "filename": "Tibbs-598156630"},
+    { "pet": "Collaboration", "owner": "Dennis Nicholback", "type": "Dog", "breed": "Strategic", "description": "Strategic", "reason": "Together we can accomplish more", "filename": "Stich-56385517"}
   ]
 }

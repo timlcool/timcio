@@ -1,15 +1,15 @@
 {
-  "name": "progressive",
+  "name": "Power of PWA",
   "version": "1.0.0",
-  "description": "Project for my Progressive Web Apps course on Lynda.com/LinkedIn Learning",
+  "description": "Testing the push capabilities of pwa",
   "scripts": {
     "start": "node ./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/planetoftheweb/progressive.git"
+    "url": "https://github.com/timlcool/timcio.git"
   },
-  "author": "Ray Villalobos",
+  "author": "Tim Cool",
   "devDependencies": {
     "browserify": "^13.1.0",
     "gulp": "^3.8.8",
